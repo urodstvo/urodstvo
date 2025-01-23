@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -27,3 +27,13 @@
 </div>
 
 ###
+
+<div align="center">
+  <h3>Wanna to do.</h3>
+  <table style="border: none;" cellspacing="0" cellpadding="0" border="0">
+    <tr><td>#1</td><td>minecraft launcher</td> </tr>
+    <tr><td>...</td><td>I haven't thought of it yet</td></tr>
+    <tfooter><td colspan="2">if anyone is interested in working together, please get in touch.</td></tfooter>
+  </table>
+</div>
+
