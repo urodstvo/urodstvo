@@ -31,7 +31,7 @@
 <div align="center">
   <h3>Wanna to do.</h3>
   <table style="border: none;" cellspacing="0" cellpadding="0" border="0">
-    <tr><td>#1</td><td>minecraft launcher</td> </tr>
+    <tr><td>#1</td><td><a href="https://github.com/urodstvo/minecraft-launcher">minecraft launcher</a></td> </tr>
     <tr><td>...</td><td>I haven't thought of it yet</td></tr>
     <tfooter><td colspan="2">if anyone is interested in working together, please get in touch.</td></tfooter>
   </table>
